@@ -1,6 +1,6 @@
 ### Hello ! 🐧
 <p aligh="left">
-    <!-- <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakaguchiTakumi03&layout=compact&theme=onedark"/> -->
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakaguchiTakumi03&layout=compact&theme=transparent&show_icons=ture&bg_color=000000"/>
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SakaguchiTakumi03&theme=transparent&show_icons=ture&bg_color=000000"/>
 </p>
 
