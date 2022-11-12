@@ -1,6 +1,9 @@
 ### Hello ! 🐧
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakaguchiTakumi03&count_private=true&layout=compact&theme=transparent&show_icons=ture&bg_color=000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakaguchiTakumi03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakaguchiTakumi03&&layout=compact&theme=transparent&show_icons=ture&bg_color=000000)
+![](https://git-hub-readme-stats-clone-sakaguchitakumi03.vercel.app/api/top-langs/?username=SakaguchiTakumi03&layout=compact&theme=transparent&show_icons=ture&bg_color=000000)
 ![](https://github-readme-stats.vercel.app/api?username=SakaguchiTakumi03&theme=transparent&show_icons=ture&bg_color=000000)
+![](https://git-hub-readme-stats-clone-sakaguchitakumi03.vercel.app/api?username=SakaguchiTakumi03&theme=transparent&show_icons=ture&bg_color=000000)
 ![](https://raw.githubusercontent.com/SakaguchiTakumi03/SakaguchiTakumi03/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/SakaguchiTakumi03/SakaguchiTakumi03/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 ![](https://raw.githubusercontent.com/SakaguchiTakumi03/SakaguchiTakumi03/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
